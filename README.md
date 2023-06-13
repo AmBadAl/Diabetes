@@ -56,7 +56,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 Thanks DALL·E for generating the above picture profiles!
 
-## [License]
+## License
 MIT
 
 
