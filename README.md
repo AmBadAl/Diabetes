@@ -22,16 +22,23 @@ To get started with this project, please follow these steps:
 -
 
 
-
 ## Implemented Models:
 we have implemented the following models on our dataset:
 
-- Transformers
+- LSTM
 - Linear Regression
 - Random Forest
 - TODO: complete it
 
 After evaluation, we found out that the Random Forest model outperforms the other models and we use this model for our prediction system.
+
+## Results 
+| Model | Accuracy on test set |
+|----------|------------|
+|  LSTM  |    |
+| Linear Regression   |    |
+| Random Forest  |    |
+TODO:
 
 ### Development
 Want to contribute? Great!
