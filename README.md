@@ -22,7 +22,7 @@ To get started with this project, please follow these steps:
 -
 
 
-## Implemented Models:
+## Implemented Models
 we have implemented the following models on our dataset:
 
 - LSTM
