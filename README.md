@@ -56,8 +56,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 Thanks DALL·E for generating the above picture profiles!
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+## [License]
+MIT
 
 
