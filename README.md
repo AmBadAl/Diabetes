@@ -1,14 +1,14 @@
 #  Diabetes Predictors 
 Machine Learning model for predicting diabetes based on personal and health-related features.<br>
 <p style="text-align: center;">
-<img src="image-ui.png" width="400"/>
+<img src="pictures/image-ui.png" width="400"/>
 </p>
 
 
 ## Demo
 Here is a sample of using our model:<br>
 <br>
-<img src="demo.jpg" width="400"/>
+<img src="pictures/demo.jpg" width="400"/>
 
 ## Project Structure
 
@@ -57,7 +57,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Team
 
-[![Ali Mehrabani](https://github.com/AmBadAl/Diabetes/blob/main/DALL%C2%B7E%202023-06-13%2023.11.47%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/AliMehrabani) | [![Amirreza Bagheri](https://github.com/AmBadAl/Diabetes/blob/main/DALL%C2%B7E%202023-06-13%2023.11.56%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/AmBadAl) | [![Amirhossein Nedaeipour](https://github.com/AmBadAl/Diabetes/blob/main/DALL%C2%B7E%202023-06-13%2023.38.03%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/nedaei79)|[![Paniz Halvachi](https://github.com/AmBadAl/Diabetes/blob/main/DALL%C2%B7E%202023-06-13%2023.11.53%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/panizhalvachi)
+[![Ali Mehrabani](https://github.com/AmBadAl/Diabetes/blob/main/pictures/DALL%C2%B7E%202023-06-13%2023.11.47%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/AliMehrabani) | [![Amirreza Bagheri](https://github.com/AmBadAl/Diabetes/blob/main/pictures/DALL%C2%B7E%202023-06-13%2023.11.56%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/AmBadAl) | [![Amirhossein Nedaeipour](https://github.com/AmBadAl/Diabetes/blob/main/pictures/DALL%C2%B7E%202023-06-13%2023.38.03%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/nedaei79)|[![Paniz Halvachi](https://github.com/AmBadAl/Diabetes/blob/main/pictures/DALL%C2%B7E%202023-06-13%2023.11.53%20-%20cute%20high%20quality%20animationary%20robots%20images%20colorful.png)](https://github.com/panizhalvachi)
 ---|---|---|---
 [Ali Mehrabani](https://github.com/AliMehrabani) |[Amirreza Bagheri](https://github.com/AmBadAl) |[Amirhossein Nedaeipour](https://github.com/nedaei79)|[Paniz Halvachi](https://github.com/panizhalvachi)
 
