@@ -43,7 +43,7 @@ After evaluation, we found out that the Random Forest model outperforms the othe
 
 ## Results 
 | Model | Accuracy on test set |
-|----------|------------|
+| :---: |     :---:      |
 |  LSTM  |  72.38 %  |
 | Linear Regression   |  73.51 %  |
 | Random Forest  |  73.78 %  |
