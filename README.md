@@ -15,12 +15,13 @@ Here is a sample of using our model:<br>
 The project is structured as follows:
 
 ## Getting Started
-To get started with this project, please follow these steps:
+To get started with this project as a developer, please follow these steps:
 
--
--
--
+- First, clone the repository.
+- You can change the UI and reproduce the result of classic models using ml_model.ipynb notebook. Also, you can reproduce MLP model results using MLP_Model.ipynb notebook.
+- At the end, to change .exe file you can apply your changes to app.py file and run the last cells of ml_model.ipynb notebook.
 
+If you just need the application, you can download it from [here](https://github.com/AmBadAl/Diabetes).
 
 ## Implemented Models
 we have implemented the following models on our dataset:
