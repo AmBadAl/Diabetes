@@ -26,7 +26,7 @@ To get started with this project as a developer, please follow these steps:
 - You can change the UI and reproduce the result of classic models using ml_model.ipynb notebook. Also, you can reproduce MLP model results using MLP_Model.ipynb notebook.
 - At the end, to change .exe file you can apply your changes to app.py file and run the last cells of ml_model.ipynb notebook.
 
-If you just need the application, you can download it from [here](https://github.com/AmBadAl/Diabetes).
+If you just need the application, you can download it from [here](https://github.com/AmBadAl/Diabetes/dist).
 
 ## Implemented Models
 we have implemented the following models on our dataset:
@@ -44,10 +44,12 @@ After evaluation, we found out that the Random Forest model outperforms the othe
 ## Results 
 | Model | Accuracy on test set |
 |----------|------------|
-|  LSTM  |    |
-| Linear Regression   |    |
-| Random Forest  |    |
-TODO:
+|  LSTM  |  72.38 %  |
+| Linear Regression   |  73.51 %  |
+| Random Forest  |  73.78 %  |
+| Linear Regression   |  73.36 %  |
+| SVM |  73.71 %  |
+| MLP |  73.37 %  |
 
 ### Development
 Want to contribute? Great!
