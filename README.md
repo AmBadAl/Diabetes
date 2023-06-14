@@ -1,5 +1,5 @@
 #  Diabetes Predictors 
-Machine Learning model for predicting diabetes based on personal and health-related features.<br>
+Machine Learning model for predicting diabetes based on personal and health-related features with a simple GUI.<br>
 <p style="text-align: center;">
 <img src="pictures/image-ui.png" width="400"/>
 </p>
@@ -14,21 +14,30 @@ Here is a sample of using our model:<br>
 
 The project is structured as follows:
 
+- You can find all used dataset in "Datasets" directory.
+- EDA on data, classic models and UI implementation are in ml_model.ipynb notebook and MLP implementation is in MLP_Model.ipynb notebook.
+- You can find saved models with .sav file type for classic models and .pth file type for MLP model.
+- The Code for creating .exe application is stored in app.py file and you can find the created executable file in "App" directory.
+
 ## Getting Started
-To get started with this project, please follow these steps:
+To get started with this project as a developer, please follow these steps:
 
--
--
--
+- First, clone the repository.
+- You can change the UI and reproduce the result of classic models using ml_model.ipynb notebook. Also, you can reproduce MLP model results using MLP_Model.ipynb notebook.
+- At the end, to change .exe file you can apply your changes to app.py file and run the last cells of ml_model.ipynb notebook.
 
+If you just need the application, you can download it from [here](https://github.com/AmBadAl/Diabetes).
 
 ## Implemented Models
 we have implemented the following models on our dataset:
 
-- LSTM
-- Linear Regression
-- Random Forest
-- TODO: complete it
+- LSTM Model
+- Classic Models
+  - Linear Regression
+  - Random Forest
+  - SVM
+  - Logistic Regression
+- MLP Model
 
 After evaluation, we found out that the Random Forest model outperforms the other models and we use this model for our prediction system.
 
